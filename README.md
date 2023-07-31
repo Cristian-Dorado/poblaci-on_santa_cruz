@@ -1,4 +1,4 @@
-# población y viviendas de la cieudad santa cruz Por UV
+# población y viviendas de la ciudad de santa cruz Por UV
 Cantidad de población y vivienda de la Ciudad de Santa Cruz de la Cierra.
 
 Información que se realizó en base al censo del 2012. mismo al que se le incremento el porcentaje considerado por año, tanto para la cantidad de personas como para la cantidad de viviendas por Unidad Vecinal (UV). 
