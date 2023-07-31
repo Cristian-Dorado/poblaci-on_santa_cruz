@@ -1,5 +1,6 @@
-# población y viviendas de la ciudad de santa cruz Por UV
+# Mapa de población y viviendas de la ciudad de santa cruz Por UV
 Cantidad de población y vivienda de la Ciudad de Santa Cruz de la Cierra.
+Mapa creado en Folium.
 
 Información que se realizó en base al censo del 2012. mismo al que se le incremento el porcentaje considerado por año, tanto para la cantidad de personas como para la cantidad de viviendas por Unidad Vecinal (UV). 
 Esta información resultante se mapeo usando el archivo “geo_capa.json” que cuenta con todos los polígonos de las UV de la Ciudad de Santa Cruz de la Cierra. Dando un color en específico, según la cantidad de personas por UV.
